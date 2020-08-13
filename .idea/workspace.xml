@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2812af86-6e0b-48e1-bf13-a9207944a69f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k_app003/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/k_app003/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k_app003/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/k_app003/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k_app003/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/k_app003/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k_app003/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/k_app003/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/katupro003/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/katupro003/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/mystyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/mystyle.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +38,7 @@
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="katupro003.settings_dev" />
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -64,33 +69,41 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="828" y="232" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596702570704">
+    <state x="907" y="158" key="#Inspections" timestamp="1597289109647">
       <screen x="0" y="23" width="1920" height="1001" />
     </state>
-    <state x="828" y="232" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1001/1920.23.1920.1057@0.23.1920.1001" timestamp="1596702570704" />
-    <state width="1027" height="202" key="GridCell.Tab.0.bottom" timestamp="1597208431175">
+    <state x="907" y="158" key="#Inspections/0.23.1920.1001/1920.23.1920.1057@0.23.1920.1001" timestamp="1597289109647" />
+    <state x="828" y="232" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597292219099">
       <screen x="0" y="23" width="1920" height="1001" />
     </state>
-    <state width="1027" height="202" key="GridCell.Tab.0.bottom/0.23.1920.1001/1920.23.1920.1057@0.23.1920.1001" timestamp="1597208431175" />
-    <state width="1027" height="202" key="GridCell.Tab.0.center" timestamp="1597208431174">
+    <state x="828" y="232" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1001/1920.23.1920.1057@0.23.1920.1001" timestamp="1597292219099" />
+    <state x="1118" y="342" key="EnvironmentVariablesDialog" timestamp="1597292195214">
       <screen x="0" y="23" width="1920" height="1001" />
     </state>
-    <state width="1027" height="202" key="GridCell.Tab.0.center/0.23.1920.1001/1920.23.1920.1057@0.23.1920.1001" timestamp="1597208431174" />
-    <state width="1027" height="202" key="GridCell.Tab.0.left" timestamp="1597208431174">
+    <state x="1118" y="342" key="EnvironmentVariablesDialog/0.23.1920.1001/1920.23.1920.1057@0.23.1920.1001" timestamp="1597292195214" />
+    <state width="1027" height="202" key="GridCell.Tab.0.bottom" timestamp="1597294079255">
       <screen x="0" y="23" width="1920" height="1001" />
     </state>
-    <state width="1027" height="202" key="GridCell.Tab.0.left/0.23.1920.1001/1920.23.1920.1057@0.23.1920.1001" timestamp="1597208431174" />
-    <state width="1027" height="202" key="GridCell.Tab.0.right" timestamp="1597208431175">
+    <state width="1027" height="202" key="GridCell.Tab.0.bottom/0.23.1920.1001/1920.23.1920.1057@0.23.1920.1001" timestamp="1597294079255" />
+    <state width="1027" height="202" key="GridCell.Tab.0.center" timestamp="1597294079255">
       <screen x="0" y="23" width="1920" height="1001" />
     </state>
-    <state width="1027" height="202" key="GridCell.Tab.0.right/0.23.1920.1001/1920.23.1920.1057@0.23.1920.1001" timestamp="1597208431175" />
+    <state width="1027" height="202" key="GridCell.Tab.0.center/0.23.1920.1001/1920.23.1920.1057@0.23.1920.1001" timestamp="1597294079255" />
+    <state width="1027" height="202" key="GridCell.Tab.0.left" timestamp="1597294079254">
+      <screen x="0" y="23" width="1920" height="1001" />
+    </state>
+    <state width="1027" height="202" key="GridCell.Tab.0.left/0.23.1920.1001/1920.23.1920.1057@0.23.1920.1001" timestamp="1597294079254" />
+    <state width="1027" height="202" key="GridCell.Tab.0.right" timestamp="1597294079255">
+      <screen x="0" y="23" width="1920" height="1001" />
+    </state>
+    <state width="1027" height="202" key="GridCell.Tab.0.right/0.23.1920.1001/1920.23.1920.1057@0.23.1920.1001" timestamp="1597294079255" />
     <state x="407" y="222" key="SettingsEditor" timestamp="1596697021262">
       <screen x="0" y="23" width="1920" height="1001" />
     </state>
     <state x="407" y="222" key="SettingsEditor/0.23.1920.1001/1920.23.1920.1057@0.23.1920.1001" timestamp="1596697021262" />
-    <state x="295" y="440" key="com.intellij.ide.util.TipDialog" timestamp="1596694952343">
+    <state x="295" y="440" key="com.intellij.ide.util.TipDialog" timestamp="1597285580755">
       <screen x="0" y="23" width="1920" height="1001" />
     </state>
-    <state x="295" y="440" key="com.intellij.ide.util.TipDialog/0.23.1920.1001/1920.23.1920.1057@0.23.1920.1001" timestamp="1596694952343" />
+    <state x="295" y="440" key="com.intellij.ide.util.TipDialog/0.23.1920.1001/1920.23.1920.1057@0.23.1920.1001" timestamp="1597285580755" />
   </component>
 </project>
