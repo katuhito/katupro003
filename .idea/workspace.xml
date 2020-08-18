@@ -3,8 +3,19 @@
   <component name="ChangeListManager">
     <list default="true" id="2812af86-6e0b-48e1-bf13-a9207944a69f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/templates/account/email/email_confirmation_message.txt" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/templates/account/email/email_confirmation_message.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/templates/account/email/email_confirmation_subject.txt" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/templates/account/email/email_confirmation_subject.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/templates/account/email/password_reset_key_message.txt" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/templates/account/email/password_reset_key_message.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/templates/account/email/password_reset_key_subject.txt" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/templates/account/email/password_reset_key_subject.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/templates/account/email_confirm.html" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/templates/account/email_confirm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/templates/account/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/templates/account/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/templates/account/password_reset.html" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/templates/account/password_reset.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/templates/account/password_reset_done.html" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/templates/account/password_reset_done.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/templates/account/password_rest_from_key.html" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/templates/account/password_rest_from_key.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/templates/account/signup.html" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/templates/account/signup.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k_app003/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/k_app003/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k_app003/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/k_app003/templates/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/katupro003/settings_common.py" beforeDir="false" afterPath="$PROJECT_DIR$/katupro003/settings_common.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/katupro003/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/katupro003/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,9 +36,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
-  <component name="RunManager" selected="Python.migrate">
+  <component name="RunManager" selected="Python.runserver">
     <configuration name="makemigrations" type="PythonConfigurationType" factoryName="Python">
       <module name="katupro003" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -126,29 +137,29 @@
       <screen x="0" y="23" width="1920" height="1001" />
     </state>
     <state x="1118" y="342" key="EnvironmentVariablesDialog/0.23.1920.1001/1920.23.1920.1057@0.23.1920.1001" timestamp="1597292195214" />
-    <state width="1027" height="202" key="GridCell.Tab.0.bottom" timestamp="1597653224161">
+    <state width="1072" height="202" key="GridCell.Tab.0.bottom" timestamp="1597742507725">
       <screen x="0" y="23" width="1920" height="1001" />
     </state>
-    <state width="1027" height="202" key="GridCell.Tab.0.bottom/0.23.1920.1001/1920.23.1920.1057@0.23.1920.1001" timestamp="1597653224161" />
-    <state width="1027" height="202" key="GridCell.Tab.0.center" timestamp="1597653224161">
+    <state width="1072" height="202" key="GridCell.Tab.0.bottom/0.23.1920.1001/1920.23.1920.1057@0.23.1920.1001" timestamp="1597742507725" />
+    <state width="1072" height="202" key="GridCell.Tab.0.center" timestamp="1597742507724">
       <screen x="0" y="23" width="1920" height="1001" />
     </state>
-    <state width="1027" height="202" key="GridCell.Tab.0.center/0.23.1920.1001/1920.23.1920.1057@0.23.1920.1001" timestamp="1597653224161" />
-    <state width="1027" height="202" key="GridCell.Tab.0.left" timestamp="1597653224161">
+    <state width="1072" height="202" key="GridCell.Tab.0.center/0.23.1920.1001/1920.23.1920.1057@0.23.1920.1001" timestamp="1597742507724" />
+    <state width="1072" height="202" key="GridCell.Tab.0.left" timestamp="1597742507724">
       <screen x="0" y="23" width="1920" height="1001" />
     </state>
-    <state width="1027" height="202" key="GridCell.Tab.0.left/0.23.1920.1001/1920.23.1920.1057@0.23.1920.1001" timestamp="1597653224161" />
-    <state width="1027" height="202" key="GridCell.Tab.0.right" timestamp="1597653224161">
+    <state width="1072" height="202" key="GridCell.Tab.0.left/0.23.1920.1001/1920.23.1920.1057@0.23.1920.1001" timestamp="1597742507724" />
+    <state width="1072" height="202" key="GridCell.Tab.0.right" timestamp="1597742507724">
       <screen x="0" y="23" width="1920" height="1001" />
     </state>
-    <state width="1027" height="202" key="GridCell.Tab.0.right/0.23.1920.1001/1920.23.1920.1057@0.23.1920.1001" timestamp="1597653224161" />
-    <state x="407" y="222" key="SettingsEditor" timestamp="1596697021262">
+    <state width="1072" height="202" key="GridCell.Tab.0.right/0.23.1920.1001/1920.23.1920.1057@0.23.1920.1001" timestamp="1597742507724" />
+    <state x="407" y="222" key="SettingsEditor" timestamp="1597732524239">
       <screen x="0" y="23" width="1920" height="1001" />
     </state>
-    <state x="407" y="222" key="SettingsEditor/0.23.1920.1001/1920.23.1920.1057@0.23.1920.1001" timestamp="1596697021262" />
-    <state x="295" y="440" key="com.intellij.ide.util.TipDialog" timestamp="1597647259729">
+    <state x="407" y="222" key="SettingsEditor/0.23.1920.1001/1920.23.1920.1057@0.23.1920.1001" timestamp="1597732524239" />
+    <state x="295" y="440" key="com.intellij.ide.util.TipDialog" timestamp="1597731208792">
       <screen x="0" y="23" width="1920" height="1001" />
     </state>
-    <state x="295" y="440" key="com.intellij.ide.util.TipDialog/0.23.1920.1001/1920.23.1920.1057@0.23.1920.1001" timestamp="1597647259729" />
+    <state x="295" y="440" key="com.intellij.ide.util.TipDialog/0.23.1920.1001/1920.23.1920.1057@0.23.1920.1001" timestamp="1597731208792" />
   </component>
 </project>

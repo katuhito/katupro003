@@ -41,7 +41,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 
-    'k_app003.apps.K_app003Config',
+    'k_app003.apps.KApp003Config',
     'accounts.apps.AccountsConfig',
 
     'django.contrib.sites',
