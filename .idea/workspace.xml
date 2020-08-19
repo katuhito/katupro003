@@ -3,19 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="2812af86-6e0b-48e1-bf13-a9207944a69f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/templates/account/email/email_confirmation_message.txt" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/templates/account/email/email_confirmation_message.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/templates/account/email/email_confirmation_subject.txt" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/templates/account/email/email_confirmation_subject.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/templates/account/email/password_reset_key_message.txt" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/templates/account/email/password_reset_key_message.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/templates/account/email/password_reset_key_subject.txt" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/templates/account/email/password_reset_key_subject.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/templates/account/email_confirm.html" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/templates/account/email_confirm.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/templates/account/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/templates/account/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/templates/account/password_reset.html" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/templates/account/password_reset.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/templates/account/password_reset_done.html" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/templates/account/password_reset_done.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/templates/account/password_rest_from_key.html" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/templates/account/password_rest_from_key.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/templates/account/signup.html" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/templates/account/signup.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k_app003/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/k_app003/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k_app003/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/k_app003/templates/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/katupro003/settings_common.py" beforeDir="false" afterPath="$PROJECT_DIR$/katupro003/settings_common.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/katupro003/settings_dev.py" beforeDir="false" afterPath="$PROJECT_DIR$/katupro003/settings_dev.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/katupro003/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/katupro003/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,9 +96,9 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.runserver" />
       <item itemvalue="Python.makemigrations" />
       <item itemvalue="Python.migrate" />
+      <item itemvalue="Python.runserver" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -157,9 +147,9 @@
       <screen x="0" y="23" width="1920" height="1001" />
     </state>
     <state x="407" y="222" key="SettingsEditor/0.23.1920.1001/1920.23.1920.1057@0.23.1920.1001" timestamp="1597732524239" />
-    <state x="295" y="440" key="com.intellij.ide.util.TipDialog" timestamp="1597731208792">
+    <state x="295" y="440" key="com.intellij.ide.util.TipDialog" timestamp="1597800886971">
       <screen x="0" y="23" width="1920" height="1001" />
     </state>
-    <state x="295" y="440" key="com.intellij.ide.util.TipDialog/0.23.1920.1001/1920.23.1920.1057@0.23.1920.1001" timestamp="1597731208792" />
+    <state x="295" y="440" key="com.intellij.ide.util.TipDialog/0.23.1920.1001/1920.23.1920.1057@0.23.1920.1001" timestamp="1597800886971" />
   </component>
 </project>
