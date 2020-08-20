@@ -10,6 +10,9 @@ from .forms import InquiryForm
 
 from django.contrib import messages
 
+from django.contrib.auth.mixins import LoginRequiredMixin
+from .models import Diary
+
 logger = logging.getLogger(__name__)
 
 class IndexView(generic.TemplateView):
@@ -26,6 +29,14 @@ class InquiryView(generic.FormView):
         logger.info('Inquiry sent by {}'.format(form.cleaned_data['name']))
 
         return super().form_valid(form)
+
+class DiaryListView(LoginRequiredMixin, generic.ListView):
+    model = Diary
+    template_name = 'k_app003_list.html'
+
+    def get_queryset(self):
+        diaries = Diary.objects.filter(user=self.request.user).order_by(-created_at)
+        return diaries
 
 
 
