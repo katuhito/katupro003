@@ -43,7 +43,7 @@
           </li>
           {% if user.is_authenticated %}
           <li class="nav-item{% block active_diary_list %}{% endblock %}">
-            <a class="nav-link" href="{% url 'k_app003:k_app003_list' %}">DIARY LIST</a>
+            <a class="nav-link" href="{% url 'k_app003:diary_list' %}">DIARY LIST</a>
           </li>
           {% endif %}
         </ul>

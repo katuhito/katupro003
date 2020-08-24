@@ -54,7 +54,7 @@ SITE_ID = 1
 AUTHENTICATION_BACKENDS = (
     'allauth.account.auth_backends.AuthenticationBackend',
 # 一般ユーザー用（メールアドレス認証）
-    'django.contrib.auth_backends.ModelBackend',
+    'django.contrib.auth.backends.ModelBackend',
 # 管理サイト用（ユーザー名認証）
 )
 
@@ -68,8 +68,10 @@ ACCOUNT_EMAIL_REQUIRED = True
 
 # ログイン/ログアウト後の遷移先を設定
 
-# LOGIN_REDIRECT_URL = 'k_app003:index'
-LOGIN_REDIRECT_URL = 'k_app003:k_app003_list'
+LOGIN_REDIRECT_URL = 'k_app003:diary_list'
+    # 'k_app003:index',
+
+
 
 ACCOUNT_LOGOUT_REDIRECT_URL = 'account_login'
 

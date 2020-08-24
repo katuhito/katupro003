@@ -1,3 +1,7 @@
+{% extends 'base.html' %}
+
+{% load static %}
+
 {% block title %}日記一覧 | Private Diary{% endblock %}
 
 {% block active_diary_list %}active{% endblock %}
@@ -14,7 +18,7 @@
                 <div class="clearfix">
                  <a class="btn btn-primary float-right" href="#">新規作成</a>
             </div>
-            {% for diary in k_app003_list %}
+            {% for diary in diary_list %}
                 <div class="post-preview">
                 <a href="#">
                     <h2 class="post-title">

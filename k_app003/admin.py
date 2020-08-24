@@ -7,3 +7,5 @@ from .models import Diary
 admin.site.register(Diary)
 
 
+
+

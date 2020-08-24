@@ -15,7 +15,7 @@ class Diary(models.Model):
     updated_at = models.DateTimeField(verbose_name='更新日時', auto_now=True)
 
     class Meta:
-        verbose_name_plural = 'Diary'
+        verbose_name_plural = 'k_app003'
 
     def __str__(self):
         return self.title
