@@ -2,29 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2812af86-6e0b-48e1-bf13-a9207944a69f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/k_app003/migrations/0002_auto_20200824_1310.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/k_app003/templates/Diary_list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/k_app003/templates/diary_create.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/k_app003/templates/diary_delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/k_app003/templates/diary_detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/k_app003/templates/diary_update.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/スクリーンショット_2020-05-01_17.36.21.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/スクリーンショット_2020-05-01_17.36.21_nXFVmhG.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/スクリーンショット_2020-05-01_17.53.48.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/templates/account/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/templates/account/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/templates/account/password_rest_from_key.html" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/templates/account/password_rest_from_key.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k_app003/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/k_app003/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k_app003/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/k_app003/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k_app003/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/k_app003/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k_app003/templates/k_app003_create.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/k_app003/templates/k_app003_delete.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/k_app003/templates/k_app003_detail.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/k_app003/templates/k_app003_list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/k_app003/templates/k_app003_update.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/k_app003/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/k_app003/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/k_app003/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/k_app003/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/katupro003/settings_common.py" beforeDir="false" afterPath="$PROJECT_DIR$/katupro003/settings_common.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,29 +139,29 @@
       <screen x="0" y="23" width="1920" height="1001" />
     </state>
     <state x="1118" y="342" key="EnvironmentVariablesDialog/0.23.1920.1001/1920.23.1920.1057@0.23.1920.1001" timestamp="1597292195214" />
-    <state width="1072" height="270" key="GridCell.Tab.0.bottom" timestamp="1598247698939">
+    <state width="1072" height="270" key="GridCell.Tab.0.bottom" timestamp="1598579665945">
       <screen x="0" y="23" width="1920" height="1001" />
     </state>
-    <state width="1072" height="270" key="GridCell.Tab.0.bottom/0.23.1920.1001/1920.23.1920.1057@0.23.1920.1001" timestamp="1598247698939" />
-    <state width="1072" height="270" key="GridCell.Tab.0.center" timestamp="1598247698938">
+    <state width="1072" height="270" key="GridCell.Tab.0.bottom/0.23.1920.1001/1920.23.1920.1057@0.23.1920.1001" timestamp="1598579665945" />
+    <state width="1072" height="270" key="GridCell.Tab.0.center" timestamp="1598579665945">
       <screen x="0" y="23" width="1920" height="1001" />
     </state>
-    <state width="1072" height="270" key="GridCell.Tab.0.center/0.23.1920.1001/1920.23.1920.1057@0.23.1920.1001" timestamp="1598247698938" />
-    <state width="1072" height="270" key="GridCell.Tab.0.left" timestamp="1598247698937">
+    <state width="1072" height="270" key="GridCell.Tab.0.center/0.23.1920.1001/1920.23.1920.1057@0.23.1920.1001" timestamp="1598579665945" />
+    <state width="1072" height="270" key="GridCell.Tab.0.left" timestamp="1598579665944">
       <screen x="0" y="23" width="1920" height="1001" />
     </state>
-    <state width="1072" height="270" key="GridCell.Tab.0.left/0.23.1920.1001/1920.23.1920.1057@0.23.1920.1001" timestamp="1598247698937" />
-    <state width="1072" height="270" key="GridCell.Tab.0.right" timestamp="1598247698938">
+    <state width="1072" height="270" key="GridCell.Tab.0.left/0.23.1920.1001/1920.23.1920.1057@0.23.1920.1001" timestamp="1598579665944" />
+    <state width="1072" height="270" key="GridCell.Tab.0.right" timestamp="1598579665945">
       <screen x="0" y="23" width="1920" height="1001" />
     </state>
-    <state width="1072" height="270" key="GridCell.Tab.0.right/0.23.1920.1001/1920.23.1920.1057@0.23.1920.1001" timestamp="1598247698938" />
+    <state width="1072" height="270" key="GridCell.Tab.0.right/0.23.1920.1001/1920.23.1920.1057@0.23.1920.1001" timestamp="1598579665945" />
     <state x="407" y="222" key="SettingsEditor" timestamp="1597732524239">
       <screen x="0" y="23" width="1920" height="1001" />
     </state>
     <state x="407" y="222" key="SettingsEditor/0.23.1920.1001/1920.23.1920.1057@0.23.1920.1001" timestamp="1597732524239" />
-    <state x="295" y="440" key="com.intellij.ide.util.TipDialog" timestamp="1598236776929">
+    <state x="295" y="440" key="com.intellij.ide.util.TipDialog" timestamp="1598577224859">
       <screen x="0" y="23" width="1920" height="1001" />
     </state>
-    <state x="295" y="440" key="com.intellij.ide.util.TipDialog/0.23.1920.1001/1920.23.1920.1057@0.23.1920.1001" timestamp="1598236776929" />
+    <state x="295" y="440" key="com.intellij.ide.util.TipDialog/0.23.1920.1001/1920.23.1920.1057@0.23.1920.1001" timestamp="1598577224859" />
   </component>
 </project>
