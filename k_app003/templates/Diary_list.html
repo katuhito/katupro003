@@ -16,7 +16,7 @@
           <div class="my-div-style w-100">
             <div class="col-lg-8 col-md-10 mx-auto">
                 <div class="clearfix">
-                 <a class="btn btn-primary float-right" href="{% url 'k_app003:diary_create' %}}">新規作成</a>
+                 <a class="btn btn-primary float-right" href="{% url 'k_app003:diary_create' %}">新規作成</a>
             </div>
             {% for diary in diary_list %}
                 <div class="post-preview">
@@ -54,7 +54,7 @@
                         <a class="page-link" href="#">{{ page_num }}</a>
                     </li>
                     {% else %}
-                    <li class="page-item"><a class="page-link" href="?page={{ page_num }}">{{ page_num }}</a> </li>
+                    <li class="page-item"><a class="page-link" href="?page={{ page_num }}">{{ page_num }}</a></li>
                     {% endif %}
                     {% endfor %}
 
